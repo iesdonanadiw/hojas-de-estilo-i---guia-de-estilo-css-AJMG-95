@@ -2,7 +2,19 @@
 /*[if IE]*/
 /*link rel="stylesheet" href="css/ie.css" type="text/css"/ */
 /*[endif]*/
+@import url(https://www.google.com/css/maia.css);
 
+/* Header */
+
+.adw-header {}
+
+/* Footer */
+
+.adw-footer {}
+
+/* Gallery */
+
+.adw-gallery {}
 
 html {
   font-family: "open sans", arial, sans-serif;
@@ -56,7 +68,7 @@ a:active {
   color: #eebbcc;
 }
 
-.class{
+.class {
   background: fuchsia;
   border: 1px solid;
   border-radius: 4px;
@@ -67,7 +79,6 @@ a:active {
   text-indent: 2em;
 }
 
-
 .test {
   display: block;
   height: 100px
@@ -77,20 +88,3 @@ a:active {
 .video {
   margin-top: 1em;
 }
-
-
-
-@import url("https://www.google.com/css/maia.css");
-
-
-/* Header */
-
-.adw-header {}
-
-/* Footer */
-
-.adw-footer {}
-
-/* Gallery */
-
-.adw-gallery {}
